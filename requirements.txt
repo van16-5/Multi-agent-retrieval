@@ -1,0 +1,14 @@
+torch>=2.2
+transformers>=4.51
+accelerate>=0.30
+bitsandbytes>=0.43
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+rank-bm25>=0.2.2
+networkx>=3.2
+spacy>=3.7
+datasets>=2.19
+requests>=2.31
+numpy
+pandas
+matplotlib
